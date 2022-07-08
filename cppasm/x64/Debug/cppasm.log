@@ -1,0 +1,110 @@
+﻿  cppasm.cpp
+C:\Users\Mi\source\repos\cppasm\cppasm\cppasm.cpp(21,5): error C4235: использовано нестандартное расширение: ключевое слово "__asm" данной архитектурой не поддерживается
+C:\Users\Mi\source\repos\cppasm\cppasm\cppasm.cpp(25,9): error C2065: mov: необъявленный идентификатор
+C:\Users\Mi\source\repos\cppasm\cppasm\cppasm.cpp(25,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "eax"
+C:\Users\Mi\source\repos\cppasm\cppasm\cppasm.cpp(25,13): error C2065: eax: необъявленный идентификатор
+C:\Users\Mi\source\repos\cppasm\cppasm\cppasm.cpp(27,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "mov"
+C:\Users\Mi\source\repos\cppasm\cppasm\cppasm.cpp(27,9): error C2065: mov: необъявленный идентификатор
+C:\Users\Mi\source\repos\cppasm\cppasm\cppasm.cpp(27,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ebx"
+C:\Users\Mi\source\repos\cppasm\cppasm\cppasm.cpp(27,13): error C2065: ebx: необъявленный идентификатор
+C:\Users\Mi\source\repos\cppasm\cppasm\cppasm.cpp(29,13): error C2065: edx: необъявленный идентификатор
+C:\Users\Mi\source\repos\cppasm\cppasm\cppasm.cpp(29,17): error C2065: edx: необъявленный идентификатор
+C:\Users\Mi\source\repos\cppasm\cppasm\cppasm.cpp(31,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "add"
+C:\Users\Mi\source\repos\cppasm\cppasm\cppasm.cpp(31,9): error C2065: add: необъявленный идентификатор
+C:\Users\Mi\source\repos\cppasm\cppasm\cppasm.cpp(31,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "eax"
+C:\Users\Mi\source\repos\cppasm\cppasm\cppasm.cpp(31,13): error C2065: eax: необъявленный идентификатор
+C:\Users\Mi\source\repos\cppasm\cppasm\cppasm.cpp(31,18): error C2065: ebx: необъявленный идентификатор
+C:\Users\Mi\source\repos\cppasm\cppasm\cppasm.cpp(33,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "mov"
+C:\Users\Mi\source\repos\cppasm\cppasm\cppasm.cpp(33,9): error C2065: mov: необъявленный идентификатор
+C:\Users\Mi\source\repos\cppasm\cppasm\cppasm.cpp(33,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "answerValue"
+C:\Users\Mi\source\repos\cppasm\cppasm\cppasm.cpp(33,26): error C2065: eax: необъявленный идентификатор
+C:\Users\Mi\source\repos\cppasm\cppasm\cppasm.cpp(35,5): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"
+C:\Users\Mi\source\repos\cppasm\cppasm\cppasm.cpp(44,5): error C4235: использовано нестандартное расширение: ключевое слово "__asm" данной архитектурой не поддерживается
+C:\Users\Mi\source\repos\cppasm\cppasm\cppasm.cpp(47,9): error C2065: mov: необъявленный идентификатор
+C:\Users\Mi\source\repos\cppasm\cppasm\cppasm.cpp(47,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "eax"
+C:\Users\Mi\source\repos\cppasm\cppasm\cppasm.cpp(47,13): error C2065: eax: необъявленный идентификатор
+C:\Users\Mi\source\repos\cppasm\cppasm\cppasm.cpp(49,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "mov"
+C:\Users\Mi\source\repos\cppasm\cppasm\cppasm.cpp(49,9): error C2065: mov: необъявленный идентификатор
+C:\Users\Mi\source\repos\cppasm\cppasm\cppasm.cpp(49,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ebx"
+C:\Users\Mi\source\repos\cppasm\cppasm\cppasm.cpp(49,13): error C2065: ebx: необъявленный идентификатор
+C:\Users\Mi\source\repos\cppasm\cppasm\cppasm.cpp(51,13): error C2065: edx: необъявленный идентификатор
+C:\Users\Mi\source\repos\cppasm\cppasm\cppasm.cpp(51,18): error C2065: edx: необъявленный идентификатор
+C:\Users\Mi\source\repos\cppasm\cppasm\cppasm.cpp(53,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "div"
+C:\Users\Mi\source\repos\cppasm\cppasm\cppasm.cpp(53,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ebx"
+C:\Users\Mi\source\repos\cppasm\cppasm\cppasm.cpp(53,9): warning C4551: в вызове функции отсутствует список аргументов
+C:\Users\Mi\source\repos\cppasm\cppasm\cppasm.cpp(53,13): error C2065: ebx: необъявленный идентификатор
+C:\Users\Mi\source\repos\cppasm\cppasm\cppasm.cpp(55,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "mov"
+C:\Users\Mi\source\repos\cppasm\cppasm\cppasm.cpp(55,9): error C2065: mov: необъявленный идентификатор
+C:\Users\Mi\source\repos\cppasm\cppasm\cppasm.cpp(55,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "answerValue"
+C:\Users\Mi\source\repos\cppasm\cppasm\cppasm.cpp(55,26): error C2065: eax: необъявленный идентификатор
+C:\Users\Mi\source\repos\cppasm\cppasm\cppasm.cpp(57,5): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"
+C:\Users\Mi\source\repos\cppasm\cppasm\cppasm.cpp(66,5): error C4235: использовано нестандартное расширение: ключевое слово "__asm" данной архитектурой не поддерживается
+C:\Users\Mi\source\repos\cppasm\cppasm\cppasm.cpp(69,9): error C2065: mov: необъявленный идентификатор
+C:\Users\Mi\source\repos\cppasm\cppasm\cppasm.cpp(69,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "eax"
+C:\Users\Mi\source\repos\cppasm\cppasm\cppasm.cpp(69,13): error C2065: eax: необъявленный идентификатор
+C:\Users\Mi\source\repos\cppasm\cppasm\cppasm.cpp(71,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "mov"
+C:\Users\Mi\source\repos\cppasm\cppasm\cppasm.cpp(71,9): error C2065: mov: необъявленный идентификатор
+C:\Users\Mi\source\repos\cppasm\cppasm\cppasm.cpp(71,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ebx"
+C:\Users\Mi\source\repos\cppasm\cppasm\cppasm.cpp(71,13): error C2065: ebx: необъявленный идентификатор
+C:\Users\Mi\source\repos\cppasm\cppasm\cppasm.cpp(73,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "mul"
+C:\Users\Mi\source\repos\cppasm\cppasm\cppasm.cpp(73,9): error C2065: mul: необъявленный идентификатор
+C:\Users\Mi\source\repos\cppasm\cppasm\cppasm.cpp(73,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ebx"
+C:\Users\Mi\source\repos\cppasm\cppasm\cppasm.cpp(73,13): error C2065: ebx: необъявленный идентификатор
+C:\Users\Mi\source\repos\cppasm\cppasm\cppasm.cpp(75,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "mov"
+C:\Users\Mi\source\repos\cppasm\cppasm\cppasm.cpp(75,9): error C2065: mov: необъявленный идентификатор
+C:\Users\Mi\source\repos\cppasm\cppasm\cppasm.cpp(75,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "answerValue"
+C:\Users\Mi\source\repos\cppasm\cppasm\cppasm.cpp(75,26): error C2065: eax: необъявленный идентификатор
+C:\Users\Mi\source\repos\cppasm\cppasm\cppasm.cpp(77,5): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"
+C:\Users\Mi\source\repos\cppasm\cppasm\cppasm.cpp(86,5): error C4235: использовано нестандартное расширение: ключевое слово "__asm" данной архитектурой не поддерживается
+C:\Users\Mi\source\repos\cppasm\cppasm\cppasm.cpp(89,9): error C2065: mov: необъявленный идентификатор
+C:\Users\Mi\source\repos\cppasm\cppasm\cppasm.cpp(89,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "eax"
+C:\Users\Mi\source\repos\cppasm\cppasm\cppasm.cpp(89,13): error C2065: eax: необъявленный идентификатор
+C:\Users\Mi\source\repos\cppasm\cppasm\cppasm.cpp(91,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "mov"
+C:\Users\Mi\source\repos\cppasm\cppasm\cppasm.cpp(91,9): error C2065: mov: необъявленный идентификатор
+C:\Users\Mi\source\repos\cppasm\cppasm\cppasm.cpp(91,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ebx"
+C:\Users\Mi\source\repos\cppasm\cppasm\cppasm.cpp(91,13): error C2065: ebx: необъявленный идентификатор
+C:\Users\Mi\source\repos\cppasm\cppasm\cppasm.cpp(93,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "sub"
+C:\Users\Mi\source\repos\cppasm\cppasm\cppasm.cpp(93,9): error C2065: sub: необъявленный идентификатор
+C:\Users\Mi\source\repos\cppasm\cppasm\cppasm.cpp(93,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "eax"
+C:\Users\Mi\source\repos\cppasm\cppasm\cppasm.cpp(93,13): error C2065: eax: необъявленный идентификатор
+C:\Users\Mi\source\repos\cppasm\cppasm\cppasm.cpp(93,18): error C2065: ebx: необъявленный идентификатор
+C:\Users\Mi\source\repos\cppasm\cppasm\cppasm.cpp(95,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "mov"
+C:\Users\Mi\source\repos\cppasm\cppasm\cppasm.cpp(95,9): error C2065: mov: необъявленный идентификатор
+C:\Users\Mi\source\repos\cppasm\cppasm\cppasm.cpp(95,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "answerValue"
+C:\Users\Mi\source\repos\cppasm\cppasm\cppasm.cpp(95,26): error C2065: ebx: необъявленный идентификатор
+C:\Users\Mi\source\repos\cppasm\cppasm\cppasm.cpp(97,5): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"
+C:\Users\Mi\source\repos\cppasm\cppasm\cppasm.cpp(105,5): error C4235: использовано нестандартное расширение: ключевое слово "__asm" данной архитектурой не поддерживается
+C:\Users\Mi\source\repos\cppasm\cppasm\cppasm.cpp(109,9): error C2065: mov: необъявленный идентификатор
+C:\Users\Mi\source\repos\cppasm\cppasm\cppasm.cpp(109,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "eax"
+C:\Users\Mi\source\repos\cppasm\cppasm\cppasm.cpp(109,13): error C2065: eax: необъявленный идентификатор
+C:\Users\Mi\source\repos\cppasm\cppasm\cppasm.cpp(111,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "neg"
+C:\Users\Mi\source\repos\cppasm\cppasm\cppasm.cpp(111,9): error C2065: neg: необъявленный идентификатор
+C:\Users\Mi\source\repos\cppasm\cppasm\cppasm.cpp(111,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "eax"
+C:\Users\Mi\source\repos\cppasm\cppasm\cppasm.cpp(111,13): error C2065: eax: необъявленный идентификатор
+C:\Users\Mi\source\repos\cppasm\cppasm\cppasm.cpp(113,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "mov"
+C:\Users\Mi\source\repos\cppasm\cppasm\cppasm.cpp(113,9): error C2065: mov: необъявленный идентификатор
+C:\Users\Mi\source\repos\cppasm\cppasm\cppasm.cpp(113,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "answerValue"
+C:\Users\Mi\source\repos\cppasm\cppasm\cppasm.cpp(113,26): error C2065: eax: необъявленный идентификатор
+C:\Users\Mi\source\repos\cppasm\cppasm\cppasm.cpp(115,5): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"
+C:\Users\Mi\source\repos\cppasm\cppasm\cppasm.cpp(123,5): error C4235: использовано нестандартное расширение: ключевое слово "__asm" данной архитектурой не поддерживается
+C:\Users\Mi\source\repos\cppasm\cppasm\cppasm.cpp(127,9): error C2065: mov: необъявленный идентификатор
+C:\Users\Mi\source\repos\cppasm\cppasm\cppasm.cpp(127,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "eax"
+C:\Users\Mi\source\repos\cppasm\cppasm\cppasm.cpp(127,13): error C2065: eax: необъявленный идентификатор
+C:\Users\Mi\source\repos\cppasm\cppasm\cppasm.cpp(129,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "mov"
+C:\Users\Mi\source\repos\cppasm\cppasm\cppasm.cpp(129,9): error C2065: mov: необъявленный идентификатор
+C:\Users\Mi\source\repos\cppasm\cppasm\cppasm.cpp(129,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "cl"
+C:\Users\Mi\source\repos\cppasm\cppasm\cppasm.cpp(129,13): error C2065: cl: необъявленный идентификатор
+C:\Users\Mi\source\repos\cppasm\cppasm\cppasm.cpp(131,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "dec"
+C:\Users\Mi\source\repos\cppasm\cppasm\cppasm.cpp(131,9): error C2065: dec: необъявленный идентификатор
+C:\Users\Mi\source\repos\cppasm\cppasm\cppasm.cpp(131,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "cl"
+C:\Users\Mi\source\repos\cppasm\cppasm\cppasm.cpp(131,13): error C2065: cl: необъявленный идентификатор
+C:\Users\Mi\source\repos\cppasm\cppasm\cppasm.cpp(133,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "shl"
+C:\Users\Mi\source\repos\cppasm\cppasm\cppasm.cpp(133,9): error C2065: shl: необъявленный идентификатор
+C:\Users\Mi\source\repos\cppasm\cppasm\cppasm.cpp(133,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "eax"
+C:\Users\Mi\source\repos\cppasm\cppasm\cppasm.cpp(133,13): error C2065: eax: необъявленный идентификатор
+C:\Users\Mi\source\repos\cppasm\cppasm\cppasm.cpp(133,18): error C2065: cl: необъявленный идентификатор
+C:\Users\Mi\source\repos\cppasm\cppasm\cppasm.cpp(135,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "mov"
+C:\Users\Mi\source\repos\cppasm\cppasm\cppasm.cpp(135,9): error C2065: mov: необъявленный идентификатор
+C:\Users\Mi\source\repos\cppasm\cppasm\cppasm.cpp(135,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "answerValue"
+C:\Users\Mi\source\repos\cppasm\cppasm\cppasm.cpp(135,26): error C2065: eax: необъявленный идентификатор
+C:\Users\Mi\source\repos\cppasm\cppasm\cppasm.cpp(137,5): fatal error C1003: число ошибок превышает 100; остановка компиляции

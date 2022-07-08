@@ -1,0 +1,8 @@
+﻿  cppasm.cpp
+C:\Users\Mi\source\repos\cppasm\cppasm\cppasm.cpp(23,5): warning C4102: MAIN: неиспользованная метка
+C:\Users\Mi\source\repos\cppasm\cppasm\cppasm.cpp(46,5): warning C4102: MAIN: неиспользованная метка
+C:\Users\Mi\source\repos\cppasm\cppasm\cppasm.cpp(68,5): warning C4102: MAIN: неиспользованная метка
+C:\Users\Mi\source\repos\cppasm\cppasm\cppasm.cpp(88,5): warning C4102: MAIN: неиспользованная метка
+C:\Users\Mi\source\repos\cppasm\cppasm\cppasm.cpp(107,5): warning C4102: MAIN: неиспользованная метка
+C:\Users\Mi\source\repos\cppasm\cppasm\cppasm.cpp(125,5): warning C4102: MAIN: неиспользованная метка
+  cppasm.vcxproj -> C:\Users\Mi\source\repos\cppasm\Debug\cppasm.exe
